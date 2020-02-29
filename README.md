@@ -1,2 +1,2 @@
 # TheWestTimes-Forum
-Where talks pf The West Times happen.
+Where talks of The West Times happen.
